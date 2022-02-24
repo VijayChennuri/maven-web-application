@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.158.86:9980/mithuntechnologies/repository/facebook-release/</url>
+	      <name>Taurus Releases Nexus Repository</name>
+	      <url>http://18.218.163.3:8081/repository/taurus-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.158.86:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <name>Taurus Snapshot Nexus Repository </name>
+	      <url>http://18.218.163.3:8081/repository/taurus-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
