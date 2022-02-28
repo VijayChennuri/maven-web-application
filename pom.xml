@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://18.119.98.58:9000/</sonar.host.url>
+		<sonar.host.url>http://18.221.99.27:9000/</sonar.host.url>
                 <sonar.login>bef1b1ea090f267516a0a222715e4bc61772c92f</sonar.login>
 		<!--<sonar.password>passw0rd</sonar.password>-->
              
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Taurus Releases Nexus Repository</name>
-	      <url>http://18.218.163.3:8081/repository/taurus-release/</url>
+	      <url>http://52.15.57.175:8081/repository/taurus-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Taurus Snapshot Nexus Repository </name>
-	      <url>http://18.218.163.3:8081/repository/taurus-snapshot/</url>
+	      <url>http://52.15.57.175:8081/repository/taurus-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
